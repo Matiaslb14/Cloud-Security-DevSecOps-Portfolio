@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Cloud Security & DevSecOps Journey" width="100%">
+</p>
+
 # 🚀 Cloud Security & DevSecOps Portfolio / Portafolio  
 
 Welcome to my professional portfolio!  
