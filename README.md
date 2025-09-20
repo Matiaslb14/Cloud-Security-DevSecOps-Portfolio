@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/banner.png" alt="Cloud Security & DevSecOps Journey" width="100%">
-</p>
 
 # 🚀 Cloud Security & DevSecOps Portfolio / Portafolio  
 
@@ -12,8 +9,11 @@ Bienvenido a mi portafolio profesional.
 Comencé mi camino como **Ingeniero en Redes y Linux**, y progresivamente evolucioné hacia **Cloud Security & DevSecOps**.  
 Aquí encontrarás mis proyectos, organizados por categorías, mostrando mi crecimiento desde la automatización de sistemas hasta infraestructuras seguras en la nube.  
 
----
 
+---
+<p align="center">
+  <img src="images/banner.png" alt="Cloud Security & DevSecOps Journey" width="100%">
+</p>
 <div align="center">
 
 <!-- Core Stack -->
