@@ -10,6 +10,47 @@ Aquí encontrarás mis proyectos, organizados por categorías, mostrando mi crec
 
 ---
 
+<div align="center">
+
+<!-- Core Stack -->
+  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=00FF88)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+<br/>
+
+<!-- Observability -->
+  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-DB1F29?style=for-the-badge&logo=zabbix&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+<br/>
+
+<!-- DevSecOps / Cloud Security -->
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-3E4EB8?style=for-the-badge&logo=bridgecrew&logoColor=white)
+![TFLint](https://img.shields.io/badge/TFLint-5C2D91?style=for-the-badge&logo=terraform&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-1F2A44?style=for-the-badge&logo=open-policy-agent&logoColor=white)
+![Cosign](https://img.shields.io/badge/Cosign-4A154B?style=for-the-badge&logo=sigstore&logoColor=white)
+![Syft/SBOM](https://img.shields.io/badge/Syft%20SBOM-2F855A?style=for-the-badge&logo=anchore&logoColor=white)
+![WAF](https://img.shields.io/badge/AWS%20WAF-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/AWS%20GuardDuty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+
 ## 🐧 Linux & Bash Automation / Automatización en Linux & Bash
 - [Project 01 – SysAdmin Toolkit](https://github.com/Matiaslb14/Sysadmin-toolkit)  
 - [Project 02 – User Manager](https://github.com/Matiaslb14/User-admin)  
