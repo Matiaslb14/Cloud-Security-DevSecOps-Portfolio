@@ -88,7 +88,7 @@ Aquí encontrarás mis proyectos, organizados por categorías, mostrando mi crec
 
 ## 📊 Monitoring & Observability / Monitoreo & Observabilidad
 - [Project 19 – Zabbix + Docker + GNS3](https://github.com/Matiaslb14/zabbix-docker)  
-- [Project 20 – Prometheus + Grafana + Kubernetes](https://github.com/Matiaslb14/Sentinel)  
+ 
 
 ---
 
