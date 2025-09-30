@@ -64,30 +64,31 @@ Aquí encontrarás mis proyectos, organizados por categorías, mostrando mi crec
 
 ## 🛡️ Security & IDS / Seguridad & IDS
 - [Project 06 – Sentinel IDS](https://github.com/Matiaslb14/Sentinel-IDS)  
-- [Project 07 – Auto Backup](https://github.com/Matiaslb14/Auto-backup)  
-- [Project 08 – Syslog Central](https://github.com/Matiaslb14/syslog-central)  
-- [Project 09 – Smart Honeypot](https://github.com/Matiaslb14/Intelligent_honeypot_with_python)  
-- [Project 10 – SSH Brute Force Detection with Splunk](https://github.com/Matiaslb14/splunk-ssh-bruteforce-detection)  
+  [Project 07 – Sentinel](https://github.com/Matiaslb14/Sentinel) 
+- [Project 08 – Auto Backup](https://github.com/Matiaslb14/Auto-backup)  
+- [Project 09 – Syslog Central](https://github.com/Matiaslb14/syslog-central)  
+- [Project 10 – Smart Honeypot](https://github.com/Matiaslb14/Intelligent_honeypot_with_python)  
+- [Project 11 – SSH Brute Force Detection with Splunk](https://github.com/Matiaslb14/splunk-ssh-bruteforce-detection)  
 
 ---
 
 ## 🐍 Python & Networking / Python & Redes
-- [Project 11 – Nmap Vulnerability Scanner](https://github.com/Matiaslb14/nmap-vulnerability-scanner)  
+- [Project 12 – Nmap Vulnerability Scanner](https://github.com/Matiaslb14/nmap-vulnerability-scanner)  
 
 ---
 
 ## ☁️ Cloud Security & DevSecOps
-- [Project 12 – Cloud Security Pipeline](https://github.com/Matiaslb14/cloud-security-pipeline)  
-- [Project 13 – DevSecOps for Containers](https://github.com/Matiaslb14/docker-devsecops-pipeline)  
-- [Project 14 – Jenkins + Terraform Infra Pipeline](https://github.com/Matiaslb14/jenkins-terraform-aws-starter)  
-- [Project 15 – AWS WAF + SOC Lab](https://github.com/Matiaslb14/aws-waf-soc-terraform)  
-- [Project 16 – AWS GuardDuty + Auto-Remediation](https://github.com/Matiaslb14/aws-guardduty-autoresponse)  
-- [Project 17 – IaC Security Pipeline](https://github.com/Matiaslb14/iac-security-pipeline)  
+- [Project 13 – Cloud Security Pipeline](https://github.com/Matiaslb14/cloud-security-pipeline)  
+- [Project 14 – DevSecOps for Containers](https://github.com/Matiaslb14/docker-devsecops-pipeline)  
+- [Project 15 – Jenkins + Terraform Infra Pipeline](https://github.com/Matiaslb14/jenkins-terraform-aws-starter)  
+- [Project 16 – AWS WAF + SOC Lab](https://github.com/Matiaslb14/aws-waf-soc-terraform)  
+- [Project 17 – AWS GuardDuty + Auto-Remediation](https://github.com/Matiaslb14/aws-guardduty-autoresponse)  
+- [Project 19 – IaC Security Pipeline](https://github.com/Matiaslb14/iac-security-pipeline)  
 
 ---
 
 ## 📊 Monitoring & Observability / Monitoreo & Observabilidad
-- [Project 19 – Zabbix + Docker + GNS3](https://github.com/Matiaslb14/zabbix-docker)  
+- [Project 20 – Zabbix + Docker + GNS3](https://github.com/Matiaslb14/zabbix-docker)  
  
 
 ---
